@@ -40,10 +40,12 @@ def main():
 def Printing_info(Info_in_table):
     first_line = "Hi Jeremy, my name is " + Info_in_table['name'], "and my student ID is " + Info_in_table['Student_id']
     print(first_line)
-
+ 
+ #second line
 def Printing_info(Info_in_table):
     scnd_line = "My ideal pizza has " + Info_in_table['Pizza_topings'] 
     print(scnd_line)
+ 
 
 #third_line = "I like to watch " Info_in_table['movies'] + " movies" +
 #fourth-line = "some of my favourites are " Info_in_table['movies']
